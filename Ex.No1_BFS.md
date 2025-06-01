@@ -1,6 +1,6 @@
 # Ex.No: 1  Implementation of Breadth First Search 
 ### NAME : AKSHAYA LAKSHMI VS                                                                    
-### REGISTER NUMBER : 212222040059
+### REGISTER NUMBER : 212222040005
 ### AIM: 
 To write a python program to implement Breadth first Search. 
 ### Algorithm:
